@@ -1,4 +1,4 @@
-module github.com/lithdew/youtube
+module github.com/kevinmtanadi/youtube
 
 go 1.14
 
